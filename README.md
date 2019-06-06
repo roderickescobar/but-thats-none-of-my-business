@@ -14,3 +14,7 @@ A list of resources for intrepid entrepeneurs
 [A Guide to Paying Quarterly Taxes](https://turbotax.intuit.com/tax-tips/self-employment-taxes/a-guide-to-paying-quarterly-taxes/L6p8C53xQ)
 
 * Provides an overview of the process of paying taxes quarterly and important forms to file and dates to keep in mind.
+
+[WA Department of Revenue - File & Pay](https://dor.wa.gov/file-pay-taxes)
+
+* List of tax resources e.g. No Business Activity, Late Filing, etc...
