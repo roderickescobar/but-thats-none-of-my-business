@@ -11,6 +11,7 @@ Small business owners may not have to file taxes if their gross income is less t
 https://dor.wa.gov/doing-business/business-types/industry-guides/bail-bond-agencies/tax-reporting-requirements
 https://dor.wa.gov/file-pay-taxes/filing-frequencies-due-dates/active-non-reporting
 
+* * *
 
 [All the Taxes Your Business Must Pay](https://www.thebalancesmb.com/all-the-taxes-your-business-must-pay-399045)
 
