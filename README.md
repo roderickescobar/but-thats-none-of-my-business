@@ -4,7 +4,7 @@ A list of resources for intrepid entrepeneurs
 ![alt text](https://i.kym-cdn.com/entries/icons/original/000/015/878/thatsnoneofmy.jpg)
 
 ## Taxes
-Small business owners may not have to file taxes if their gross income is less than $28,000 per year. However, they may have to chance their status to *'Active non-reporting'*.
+Small business owners may not have to file taxes if their gross income is less than $28,000 per year. However, they may have to change their status to *'Active non-reporting'*.
 
 **References:**
 
