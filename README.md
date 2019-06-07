@@ -1,6 +1,8 @@
 # but-thats-none-of-my-business
 A list of resources for intrepid entrepeneurs
 
+![alt text](https://i.kym-cdn.com/entries/icons/original/000/015/878/thatsnoneofmy.jpg)
+
 ## Taxes
 
 [All the Taxes Your Business Must Pay](https://www.thebalancesmb.com/all-the-taxes-your-business-must-pay-399045)
