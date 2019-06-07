@@ -1,5 +1,5 @@
 # But That's None of My Business
-A list of resources for intrepid entrepeneurs
+Information for intrepid entrepeneurs
 
 ![alt text](https://i.kym-cdn.com/entries/icons/original/000/015/878/thatsnoneofmy.jpg)
 
