@@ -5,6 +5,7 @@ Information for intrepid entrepeneurs
 
 ## Getting Started
 [Small Business Guidance](https://www.business.wa.gov/site/alias__business/880/small-business-guide--run.aspx)
+* Provides a comprehensive instructions on running your small business in Washington
 
 ## Taxes
 Small business owners may not have to file taxes if their gross income is less than $28,000 per year. However, they may have to change their status to *'Active non-reporting'*.
