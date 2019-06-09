@@ -10,9 +10,6 @@ Information for intrepid entrepeneurs
 ## Taxes
 Small business owners may not have to file taxes if their gross income is less than $28,000 per year. However, they may have to change their status to *'Active non-reporting'*.
 
-> If your business is assigned active non-reporting status, you are considered to be actively doing business in Washington, but you are not required to file tax returns. To qualify, your business must meet all of the following criteria: 
-
-> Gross proceeds of sales, gross income, or value of products for all business and occupation tax classifications is less than $28,000 per year; or $46,667 per year for persons generating at least fifty percent of their taxable amount from activities taxable under RCW 82.04.255, 82.04.290(2)(a), and 82.04.285.
 
 **References:**
 
