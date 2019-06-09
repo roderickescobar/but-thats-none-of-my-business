@@ -25,6 +25,9 @@ https://dor.wa.gov/file-pay-taxes/filing-frequencies-due-dates/active-non-report
 
 * Provides comprehensive starting point to managing and filing tax obligations.
 
+[](https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes)
+* Provides guide to paying estimated quarterly taxes.
+
 [A Guide to Paying Quarterly Taxes](https://turbotax.intuit.com/tax-tips/self-employment-taxes/a-guide-to-paying-quarterly-taxes/L6p8C53xQ)
 
 * Provides an overview of the process of paying taxes quarterly and important forms to file and dates to keep in mind.
