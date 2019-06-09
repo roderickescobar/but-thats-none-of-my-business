@@ -15,6 +15,7 @@ Small business owners may not have to file taxes if their gross income is less t
 **References:**
 
 https://dor.wa.gov/file-pay-taxes/filing-frequencies-due-dates/active-non-reporting
+
 https://dor.wa.gov/file-pay-taxes/report-no-business-activity
 
 * * *
