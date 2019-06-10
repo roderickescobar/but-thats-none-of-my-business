@@ -8,7 +8,9 @@ Information for intrepid entrepeneurs
 * Provides a comprehensive instructions on running your small business in Washington
 
 ## Taxes
-Small business owners may not have to file taxes if their gross income is less than $28,000 per year. However, they may have to change their status to *'Active non-reporting'*.
+Small business owners may not have to file taxes if their gross income does not meet an annual reporting threshold. However, they may have to change their status to *'Active non-reporting'*.
+
+> You do not pay the tax if your annual taxable gross revenue is less than $100,000 or if you have no business activity for the year. You are still required, however, to report your gross revenue, even if zero, to the City of Seattle. 
 
 
 **References:**
@@ -16,6 +18,8 @@ Small business owners may not have to file taxes if their gross income is less t
 https://dor.wa.gov/file-pay-taxes/filing-frequencies-due-dates/active-non-reporting
 
 https://dor.wa.gov/file-pay-taxes/report-no-business-activity
+
+https://www.seattle.gov/business-licenses-and-taxes/business-license-taxes
 
 * * *
 
